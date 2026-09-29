@@ -25,5 +25,5 @@ Overall churn is **20.4%**.
 
 Inactive members churn at 26.9% versus 14.3% for active members. Inactive customers in the top balance tier (1,247 people) churn at 30.5%, and the churned ones held about $56.9M in balances.
 
-## Recommendation
+## Personal Recommendation
 Target inactive customers aged 46-60, starting in Germany, with retention offers. Encourage single-product customers to take a second product, since 2-product customers churn least. Review why 3-4 product customers leave almost universally.
